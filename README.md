@@ -9,3 +9,5 @@ I know, i know, this repo contains some newbie level stuff too, but...
 Chapter 1 - very basic stuff
 
 Chapter 2 - basic things, but with neat notes about primitive ranges
+
+Chapter 3 - enjoyed the readings about compiler gotchas with types and casting 
