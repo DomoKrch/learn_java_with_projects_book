@@ -10,4 +10,4 @@ Chapter 1 - very basic stuff
 
 Chapter 2 - basic things, but with neat notes about primitive ranges
 
-Chapter 3 - enjoyed the readings about compiler gotchas with types and casting 
+Chapter 3 - enjoyed the readings about compiler subtleties with types and casting 
